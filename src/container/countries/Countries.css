@@ -1,0 +1,30 @@
+.countryStats{
+    height: auto;
+    width: 100%;
+
+}
+.countyStats-Heading{
+    font-weight: 700 !important ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 80px;
+    text-align: center;
+    font-size: 2rem;
+}
+.Filtering{
+    height: 60px;
+    width: 60%;
+    margin: auto;
+    margin-top: 40px;
+}
+.Filtering input{
+    height: 100%;
+    width: 70%;
+    padding-left: 25px;
+
+}  
+.Filtering .Sort-by{
+    height: 100%;
+    width: 23%;
+    margin-left: 25px;
+    padding: 0 20px;
+}

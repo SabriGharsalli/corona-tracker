@@ -1,0 +1,26 @@
+
+.worldStats-box {
+height: 100px;
+width: 250px;
+float: left;
+margin-right: 80px;
+ 
+ 
+}    
+.totalNumber{
+    font-size:  2.7rem;
+    color: white;
+    font-weight: 700 !important;
+    font-family: f;
+    width: 100%;
+    text-align: center;
+   /*  margin-top: 30%; */
+
+}
+.about{
+    width: 100%;
+    text-align: center;
+    color: rgba(255,255,255,0.8);
+    margin-top: 5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

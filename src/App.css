@@ -1,0 +1,52 @@
+ * {
+  padding: 0;
+  margin: 0;
+}
+ body
+ {
+   height: auto;
+   width: 100%;
+   font-weight: bold !important;
+ }
+ .btn{
+  position: relative;
+    bottom: 60px;
+    background-color: rgba(0,0, 0,0);
+    border-color: rgba(0,0,0,0);
+    font-size:1.5rem;
+   float: right;
+    width:100px;
+    height:50px;
+    
+    
+    color:white;
+    
+ }
+ .Sign-up-btn {
+ position: relative;
+ bottom:  280px;
+ left: 1240px;
+ width: 100px;
+ height: 60px;
+ font-size:1.5em;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ background-color: rebeccapurple;
+ border-radius:10px;
+ border-color: rgba(0,0, 0,0);
+ color:aliceblue; 
+
+ }
+ .Auth-btn{
+  position: relative;
+  bottom:  280px;
+  left: 100px;
+  width: 100px;
+  height: 60px;
+  font-size:1.5em;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: rebeccapurple;
+  border-radius:10px;
+  border-color: rgba(0,0, 0,0);
+  color:aliceblue; 
+
+ }
